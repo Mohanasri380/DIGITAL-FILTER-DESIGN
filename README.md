@@ -62,3 +62,6 @@ Time (ns)	x_in	y_out (FIR Output)
 
 ✅ Outcome
 
+![Image](https://github.com/user-attachments/assets/333367d7-3200-4525-b9e9-6224d27e26c1)
+
+
